@@ -35,16 +35,14 @@ A **React Native** mobile application that displays a collection of **Lamborghin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/lamborghini-showcase-app.git
-   cd lamborghini-showcase-app
+   git clone https://github.com/devbruniverse/lamborghini-garage
+   cd lamborghini-garage
    ```
 
 2. **Install dependencies:**
 
    ```bash
-   npm install
-   # or
-   yarn install
+   npm i
    ```
 
 3. **Run the app:**
@@ -58,9 +56,9 @@ A **React Native** mobile application that displays a collection of **Lamborghin
    For **React Native CLI**:
 
    ```bash
-   npx react-native run-android
+   npm run android
    # or
-   npx react-native run-ios
+   npm run ios
    ```
 
 ---
